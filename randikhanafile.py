@@ -1,0 +1,1 @@
+print("RAND IKHANA")
