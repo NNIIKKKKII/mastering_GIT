@@ -1,7 +1,7 @@
 clone the repo
 create new branch from the main branch
 make your changes
-puh the branch to the remote repo
+push the branch to the remote repo
 open a pull req
 Merage the changes
 Pull the merged changes into your local main branch
